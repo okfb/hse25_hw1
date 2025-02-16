@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8921cde1-1c8f-4b65-95fe-d3634fda9d0c)# hse24_hw6
+# hse24_hw6
 ### Иллерицкий Павел Александрович
 
 [Colab](https://colab.research.google.com/drive/1z-QWQ8YTYXtWpc8bcUR57elaoj4Ibrnc?usp=sharing)
